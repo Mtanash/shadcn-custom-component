@@ -4,4 +4,4 @@
 
 ## List of components
 
-- [Button Group](/components/button-group)
+- [Button Group](/components/button-group.tsx)
